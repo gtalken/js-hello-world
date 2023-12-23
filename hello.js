@@ -4,8 +4,14 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
-
+console.log('Hello, JavaScript.');
+console.log(2001);
+console.log("What","do","commas","do?");
+console.log("Does", "adding",      "space", "matter?");
+console.log('Launch' + 'Code');
+console.log('Hello'+'World')
+console.log('"Nevermore"')
+console.log("3+3","equals",3+3)
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
